@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
