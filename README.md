@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EdlaAbhishek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
