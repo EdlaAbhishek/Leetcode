@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
