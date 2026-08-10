@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/EdlaAbhishek/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/EdlaAbhishek/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3110-score-of-a-string](https://github.com/EdlaAbhishek/Leetcode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
