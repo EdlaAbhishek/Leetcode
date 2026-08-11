@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0258-add-digits) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/EdlaAbhishek/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/EdlaAbhishek/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/EdlaAbhishek/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/EdlaAbhishek/Leetcode/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
