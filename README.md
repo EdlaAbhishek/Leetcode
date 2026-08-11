@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/EdlaAbhishek/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/EdlaAbhishek/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/EdlaAbhishek/Leetcode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/EdlaAbhishek/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/EdlaAbhishek/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
