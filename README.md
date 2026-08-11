@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EdlaAbhishek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/EdlaAbhishek/Leetcode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/EdlaAbhishek/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/EdlaAbhishek/Leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/EdlaAbhishek/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
