@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/EdlaAbhishek/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/EdlaAbhishek/Leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EdlaAbhishek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/EdlaAbhishek/Leetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
