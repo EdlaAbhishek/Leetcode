@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/EdlaAbhishek/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0709-to-lower-case](https://github.com/EdlaAbhishek/Leetcode/tree/master/0709-to-lower-case) |
