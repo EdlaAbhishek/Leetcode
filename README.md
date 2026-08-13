@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/EdlaAbhishek/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/EdlaAbhishek/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/EdlaAbhishek/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/EdlaAbhishek/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
