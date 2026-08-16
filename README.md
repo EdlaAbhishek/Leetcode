@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/EdlaAbhishek/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/EdlaAbhishek/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/EdlaAbhishek/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/EdlaAbhishek/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EdlaAbhishek/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/EdlaAbhishek/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/EdlaAbhishek/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0709-to-lower-case](https://github.com/EdlaAbhishek/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/EdlaAbhishek/Leetcode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/EdlaAbhishek/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
