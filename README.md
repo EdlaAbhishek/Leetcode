@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0709-to-lower-case](https://github.com/EdlaAbhishek/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1773-count-items-matching-a-rule](https://github.com/EdlaAbhishek/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/EdlaAbhishek/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/EdlaAbhishek/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/EdlaAbhishek/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/EdlaAbhishek/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/EdlaAbhishek/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/EdlaAbhishek/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/EdlaAbhishek/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/EdlaAbhishek/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
