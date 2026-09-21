@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/EdlaAbhishek/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/EdlaAbhishek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EdlaAbhishek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/EdlaAbhishek/Leetcode/tree/master/0682-baseball-game) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/EdlaAbhishek/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/EdlaAbhishek/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/EdlaAbhishek/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/EdlaAbhishek/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/EdlaAbhishek/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/EdlaAbhishek/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
@@ -189,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/EdlaAbhishek/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Tree
 |  |
