@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/EdlaAbhishek/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0932-beautiful-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0932-beautiful-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/EdlaAbhishek/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/EdlaAbhishek/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/EdlaAbhishek/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/EdlaAbhishek/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/EdlaAbhishek/Leetcode/tree/master/0704-binary-search) |
+| [0932-beautiful-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0932-beautiful-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/EdlaAbhishek/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/EdlaAbhishek/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0932-beautiful-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0932-beautiful-array) |
 ## Counting
 |  |
 | ------- |
