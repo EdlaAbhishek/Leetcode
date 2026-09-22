@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/EdlaAbhishek/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/EdlaAbhishek/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/EdlaAbhishek/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/EdlaAbhishek/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/EdlaAbhishek/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/EdlaAbhishek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/EdlaAbhishek/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0496-next-greater-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
