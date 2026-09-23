@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/EdlaAbhishek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/EdlaAbhishek/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EdlaAbhishek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/EdlaAbhishek/Leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/EdlaAbhishek/Leetcode/tree/master/0682-baseball-game) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/EdlaAbhishek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/EdlaAbhishek/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/EdlaAbhishek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/EdlaAbhishek/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
