@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/EdlaAbhishek/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/EdlaAbhishek/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/EdlaAbhishek/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0709-to-lower-case](https://github.com/EdlaAbhishek/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/EdlaAbhishek/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/EdlaAbhishek/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EdlaAbhishek/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/EdlaAbhishek/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EdlaAbhishek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/EdlaAbhishek/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/EdlaAbhishek/Leetcode/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/EdlaAbhishek/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Monotonic Stack
 |  |
 | ------- |
