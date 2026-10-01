@@ -6,7 +6,6 @@ class Solution {
         map.put(']', '[');
 
         Stack<Character> stack = new Stack<>();
-
         for (char c : s.toCharArray()) {
             if (map.containsValue(c)) {
                 stack.push(c);
