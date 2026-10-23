@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/EdlaAbhishek/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3524-find-x-value-of-array-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/EdlaAbhishek/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/EdlaAbhishek/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/EdlaAbhishek/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/EdlaAbhishek/Leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/EdlaAbhishek/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/EdlaAbhishek/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
