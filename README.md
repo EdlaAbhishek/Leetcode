@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/EdlaAbhishek/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/EdlaAbhishek/Leetcode/tree/master/0704-binary-search) |
 | [0932-beautiful-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0932-beautiful-array) |
+| [1254-number-of-closed-islands](https://github.com/EdlaAbhishek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1389-create-target-array-in-the-given-order](https://github.com/EdlaAbhishek/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/EdlaAbhishek/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/EdlaAbhishek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/EdlaAbhishek/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EdlaAbhishek/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/EdlaAbhishek/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1254-number-of-closed-islands](https://github.com/EdlaAbhishek/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/EdlaAbhishek/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/EdlaAbhishek/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/EdlaAbhishek/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/EdlaAbhishek/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/EdlaAbhishek/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
