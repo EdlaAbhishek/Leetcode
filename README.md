@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/EdlaAbhishek/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3524-find-x-value-of-array-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/EdlaAbhishek/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/EdlaAbhishek/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/EdlaAbhishek/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/EdlaAbhishek/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/EdlaAbhishek/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EdlaAbhishek/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/EdlaAbhishek/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/EdlaAbhishek/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/EdlaAbhishek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/EdlaAbhishek/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/EdlaAbhishek/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [3665-twisted-mirror-path-count](https://github.com/EdlaAbhishek/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Prefix Sum
 |  |
 | ------- |
