@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/EdlaAbhishek/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/EdlaAbhishek/Leetcode/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/EdlaAbhishek/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0932-beautiful-array](https://github.com/EdlaAbhishek/Leetcode/tree/master/0932-beautiful-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EdlaAbhishek/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EdlaAbhishek/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/EdlaAbhishek/Leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/EdlaAbhishek/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/EdlaAbhishek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/EdlaAbhishek/Leetcode/tree/master/0682-baseball-game) |
